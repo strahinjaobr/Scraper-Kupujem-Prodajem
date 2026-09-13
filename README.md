@@ -3,7 +3,7 @@
 
 A small web scraping project built for hands-on practice, designed around a real-world use case.
 
-Resellers who look for underpriced second-hand items need to act fast — the best deals disappear within minutes. This scraper monitors a marketplace category and sends an instant notification the moment a new listing goes up, giving the user a head start over other buyers. This example targets **KupujemProdajem**, the largest marketplace in Serbia, tracking iPhone devices and accessories — but the approach generalizes easily to other categories or platforms with minor changes to the search parameters and parsing logic.
+Resellers who look for underpriced second-hand items need to act fast, since the best deals disappear within minutes. This scraper monitors a marketplace category and sends an instant notification the moment a new listing goes up, giving the user a head start over other buyers. This example targets **KupujemProdajem**, the largest marketplace in Serbia, tracking iPhone devices and accessories. The approach generalizes easily to other categories or platforms with minor changes to the search parameters and parsing logic.
 
 ## How it works
 
@@ -14,11 +14,11 @@ Resellers who look for underpriced second-hand items need to act fast — the be
 
 ## Tech stack
 
-- **Python** — core application logic
-- **Requests** — HTTP requests and session handling
-- **BeautifulSoup** — HTML parsing and data extraction
-- **Telegram Bot API** — real-time push notifications
-- **JSON** — lightweight local persistence for tracked listings
+- **Python**: core application logic
+- **Requests**: HTTP requests and session handling
+- **BeautifulSoup**: HTML parsing and data extraction
+- **Telegram Bot API**: real-time push notifications
+- **JSON**: lightweight local persistence for tracked listings
 
 ## Setup
 
