@@ -1,4 +1,4 @@
-```
+
 # KupujemProdajem Ad Scraper & Notifier
 
 A small web scraping project built for hands-on practice, designed around a real-world use case.
@@ -45,4 +45,3 @@ The search keyword, category filters, and number of pages scraped per cycle can 
 ## Notes
 
 This script runs continuously (`while True`) and checks for new listings every 2 minutes by default. The interval can be tuned depending on how time-sensitive the target category is, while keeping request frequency reasonable.
-```
