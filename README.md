@@ -41,11 +41,11 @@ Resellers who look for underpriced second-hand items need to act fast, since the
 
 New listing on KupujemProdajem:
 
-![New ad](ss/ad.png)
+![New ad](ss/ad.jpeg)
 
 Instant Telegram notification:
 
-![Telegram notification](ss/message.png)
+![Telegram notification](ss/message.jpeg)
 
 ## Configuration
 
