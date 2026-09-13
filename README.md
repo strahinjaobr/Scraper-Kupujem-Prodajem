@@ -45,7 +45,7 @@ New listing on KupujemProdajem:
 
 Instant Telegram notification:
 
-![Telegram notification](ss/message.jpeg)
+![Telegram notification](ss/message.jpg)
 
 ## Configuration
 
