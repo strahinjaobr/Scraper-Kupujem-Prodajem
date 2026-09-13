@@ -37,6 +37,15 @@ Resellers who look for underpriced second-hand items need to act fast, since the
    ```bash
    python scraper.py
    ```
+## Example
+
+New listing on KupujemProdajem:
+
+![New ad](ss/ad.png)
+
+Instant Telegram notification:
+
+![Telegram notification](ss/message.png)
 
 ## Configuration
 
